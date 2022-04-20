@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\TikTakToe - C#\bin\Debug\net6.0\TikTakToe - C#.exe
+C:\Users\user\Documents\GitHub\TikTakToe - C#\bin\Debug\net6.0\TikTakToe - C#.deps.json
+C:\Users\user\Documents\GitHub\TikTakToe - C#\bin\Debug\net6.0\TikTakToe - C#.runtimeconfig.json
+C:\Users\user\Documents\GitHub\TikTakToe - C#\bin\Debug\net6.0\TikTakToe - C#.dll
+C:\Users\user\Documents\GitHub\TikTakToe - C#\bin\Debug\net6.0\TikTakToe - C#.pdb
+C:\Users\user\Documents\GitHub\TikTakToe - C#\obj\Debug\net6.0\TikTakToe - C#.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\TikTakToe - C#\obj\Debug\net6.0\TikTakToe - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\TikTakToe - C#\obj\Debug\net6.0\TikTakToe - C#.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\TikTakToe - C#\obj\Debug\net6.0\TikTakToe - C#.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\TikTakToe - C#\obj\Debug\net6.0\TikTakToe - C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\TikTakToe - C#\obj\Debug\net6.0\TikTakToe - C#.dll
+C:\Users\user\Documents\GitHub\TikTakToe - C#\obj\Debug\net6.0\refint\TikTakToe - C#.dll
+C:\Users\user\Documents\GitHub\TikTakToe - C#\obj\Debug\net6.0\TikTakToe - C#.pdb
+C:\Users\user\Documents\GitHub\TikTakToe - C#\obj\Debug\net6.0\TikTakToe - C#.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\TikTakToe - C#\obj\Debug\net6.0\ref\TikTakToe - C#.dll
